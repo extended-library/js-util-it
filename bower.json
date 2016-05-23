@@ -1,0 +1,33 @@
+{
+  "name": "js-util-it",
+  "description": "A collection of check, comparison and cast functions.",
+  "main": "dist/it.js",
+  "authors": [
+    "Richard King <richrdkng@gmail.com> (https://github.com/richrdkng)"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jsstd/js-util-it",
+  "ignore": [
+    "**/.*",
+    ".editorconfig",
+    ".gitattributes",
+    "coverage",
+    "logo",
+    "vagrant",
+    "vagrantfile",
+    "node_modules",
+    "bower_components",
+    "gulp",
+    "tests"
+  ],
+  "keywords": [
+    "it",
+    "jsstd",
+    "util",
+    "utility",
+    "commonjs",
+    "amd",
+    "browser",
+    "umd"
+  ]
+}
